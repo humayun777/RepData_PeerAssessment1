@@ -1,4 +1,4 @@
-## Introduction
+## Introduction.
 
 It is now possible to collect a large amount of data about personal
 movement using activity monitoring devices such as a
@@ -162,7 +162,6 @@ in GitHub by doing the following:
 A valid submission will look something like (this is just an **example**!)
 
 ```r
-https://github.com/rdpeng/RepData_PeerAssessment1
+https://github.com/louis3424/RepData_PeerAssessment1
 
-7c376cc5447f11537f8740af8e07d6facc3d9645
 ```
